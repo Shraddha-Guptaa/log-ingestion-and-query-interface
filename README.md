@@ -15,7 +15,7 @@ Tips
 Installation
 Clone the repository:
 
-git clone https://github.com/CoHarsh/log-ingestor.git
+git clone https://github.com/Shraddha-Guptaa/log-ingestion-and-query-interface
 Navigate to the project directory:
 
 cd log-ingestor
